@@ -67,7 +67,6 @@ public class MainActivity extends AppCompatActivity
 
                 // 主体窗口
                 View mainFrame = drawer.getChildAt(0);
-
                 // 这个就是隐藏起来的边侧滑菜单栏
                 View leftMenu = drawerView;
 
